@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=YaqoobD_david-ecommerce&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=YaqoobD_david-ecommerce)
+
 ## features
 * register (validation added)
 * login & logout
