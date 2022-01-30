@@ -10,7 +10,7 @@
 * payment success fail landing pages 
 
 # tools
-* bootstrap 3.7 (if you use 4.0 replace panel with card)
+* bootstrap 3.7
 * jquery 
 * js
 * fontawesome
