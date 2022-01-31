@@ -7,6 +7,7 @@
 ![products-categories](https://user-images.githubusercontent.com/52135942/151783233-615a5516-ba37-48c1-8ca8-bf601b665469.jpeg)
 ![products-search-by-keywords](https://user-images.githubusercontent.com/52135942/151783242-69ea2dcb-685a-41b6-8da3-81ef4ec65add.jpeg)
 ![register](https://user-images.githubusercontent.com/52135942/151783256-81a7973e-d8bc-4d73-9495-24c403a1eed0.jpeg)
+![cart](https://user-images.githubusercontent.com/52135942/151783356-e12d18ed-a613-486d-ba19-40aed103fdaf.jpeg)
 
 ## features
 * register (validation added)
