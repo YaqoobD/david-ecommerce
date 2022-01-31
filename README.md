@@ -9,6 +9,9 @@
 ![register](https://user-images.githubusercontent.com/52135942/151783256-81a7973e-d8bc-4d73-9495-24c403a1eed0.jpeg)
 ![cart](https://user-images.githubusercontent.com/52135942/151783356-e12d18ed-a613-486d-ba19-40aed103fdaf.jpeg)
 
+## Database tables
+![daatabase-tables](https://user-images.githubusercontent.com/52135942/151783518-d0f62eab-d14b-427d-8b75-dab8248b2268.jpeg)
+
 ## features
 * register (validation added)
 * login & logout
