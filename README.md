@@ -44,3 +44,15 @@ SonarCloud is a cloud service offered by SonarSource and based on SonarQube. Son
 * Laravel uses mvc architecture so there is clean flow from routes - controllers - models - views.
 * used only crud operations .
 
+# 4) Build Management (Semaphore) 
+![Screenshot 2022-01-30 at 22 02 33](https://user-images.githubusercontent.com/52135942/151913040-6cfcfbad-2a38-4abf-93f2-bb6ed78fb36e.png)
+
+I used semaphore which is very easy and simple to understand.
+In semaphore build I did
+* (installing dependencies) where all the dependencies related to application are installed.
+* (code analysis) it runs the PHP Copy Paste Detector from online repository.
+* (unit test) runs the unit tests from the phpunit binary in vendor folder.
+* (browser test) Here it runs the browser test by openeing the application in browser and checks the response.
+* (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
+
+
