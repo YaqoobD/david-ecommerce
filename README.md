@@ -55,4 +55,15 @@ In semaphore build I did
 * (browser test) Here it runs the browser test by openeing the application in browser and checks the response.
 * (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
 
+# 5) IDE
+PhpStorm is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
+* Intelligent coding assistance
+* Smart PHP Code Editor
+* Code Quality Analysis
+* Debugging, Testing and Profiling
+* HTML/CSS/JavaScript Editor
+* JavaScript Editor 
+* Development Environment 
+* Databases & SQL
+
 
