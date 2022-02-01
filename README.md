@@ -68,4 +68,16 @@ PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly e
 * Development Environment 
 * Databases & SQL
 
+## 6) DSL
+
+## 7) Functional Programming
+
+ I used only create, read, update, delete functions which are very actual things in any application.
+ 
+ * In that we have normal functions
+ * functions with parameters.
+ * side effect free function.
+ * high order functions
+
+
 
