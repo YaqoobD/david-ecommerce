@@ -13,7 +13,7 @@
 ## Database tables
 ![daatabase-tables](https://user-images.githubusercontent.com/52135942/151783518-d0f62eab-d14b-427d-8b75-dab8248b2268.jpeg)
 
-## features
+## Features
 * register (validation added)
 * login & logout
 * search
@@ -24,7 +24,7 @@
 * sessions 
 * payment success fail landing pages 
 
-# tools
+## Tools
 * bootstrap 3.7
 * jquery 
 * js
