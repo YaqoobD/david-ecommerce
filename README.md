@@ -65,12 +65,10 @@ In semaphore build I did
 * (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
 
 ## 4) Clean code development
-* To generate files I used command line commands which will create files with all functions.
-     * for eg: ```php artisan make:model``` ProductsModel  this command will generate model file for products
-* I only created once for storing images that code can be used anywhere in the application to store images. This is called traits in laravel.
-* I also created flash messages traits which can used when a using create, update, delete etc..,
-* Laravel uses mvc architecture so there is clean flow from routes - controllers - models - views.
-* used only crud operations .
+* used only crud operations.
+* to make it work on live server change credentials in db.php
+* custom made, no framework used
+
 
 ## 5) IDE
 PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
