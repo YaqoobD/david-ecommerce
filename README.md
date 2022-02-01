@@ -4,7 +4,7 @@
 
 E-commerce website allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It’s tough to imagine daily life without e-commerce. We order food, clothes, and furniture; we register for classes and other online services; we download books, music, and movies; and so much more. E-commerce has taken root and is here to stay.
 
-In winter semester 21/22 for the cource of Advance Software Engeneering offered and taught by "Prof. Dr. Stefan Edlich" I am developing this simple E-commerce website with the basic functionalities, I have found this cource very informative and I have learned a lot during the developmemt of this project. I hope this project will help many others as it have helped me.   
+In winter semester 21/22 for the cource of Advance Software Engeneering offered and taught by "Prof. Dr. Stefan Edlich". I am developing this simple E-commerce website with the basic functionalities, I have found this cource very informative and I have learned a lot during the developmemt of this project. I hope this project will help many others as it have helped me.   
 
 ## Demo
 ![home](https://user-images.githubusercontent.com/52135942/151783109-394e480b-805d-4247-93c9-9e06071231b0.jpeg)
