@@ -31,12 +31,12 @@
 * fontawesome
 * mysqli 
 
-# 2) SonarCloud
+## 2) SonarCloud
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/project/overview?id=YaqoobD_david-ecommerce)
 
 SonarCloud is a cloud service offered by SonarSource and based on SonarQube. SonarQube is a widely adopted open source platform to inspect continuously the quality of source code and detect bugs, vulnerabilities and code smells in more than 20 different languages.
 
-# 3) Build Management (Semaphore) ![68747470733a2f2f6368616e64726176616d7368692e73656d6170686f726563692e636f6d2f6261646765732f65636f6d6d657263652f6272616e636865732f6d61737465722e737667](https://user-images.githubusercontent.com/52135942/151913497-b29b588d-cfda-4b26-8d6f-74783fa89d6f.svg)
+## 3) Build Management (Semaphore) ![68747470733a2f2f6368616e64726176616d7368692e73656d6170686f726563692e636f6d2f6261646765732f65636f6d6d657263652f6272616e636865732f6d61737465722e737667](https://user-images.githubusercontent.com/52135942/151913497-b29b588d-cfda-4b26-8d6f-74783fa89d6f.svg)
 
 ![Screenshot 2022-01-30 at 22 02 33](https://user-images.githubusercontent.com/52135942/151913568-8f7b7891-c0ca-49cf-8fbc-c16de8775c44.png)
 
@@ -48,7 +48,7 @@ In semaphore build I did
 * (browser test) Here it runs the browser test by openeing the application in browser and checks the response.
 * (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
 
-# 4) Clean code development
+## 4) Clean code development
 * To generate files I used command line commands which will create files with all functions.
      * for eg: ```php artisan make:model``` ProductsModel  this command will generate model file for products
 * I only created once for storing images that code can be used anywhere in the application to store images. This is called traits in laravel.
@@ -56,7 +56,7 @@ In semaphore build I did
 * Laravel uses mvc architecture so there is clean flow from routes - controllers - models - views.
 * used only crud operations .
 
-# 5) IDE
+## 5) IDE
 PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
 
 * Intelligent coding assistance
