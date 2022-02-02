@@ -44,6 +44,7 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 * mysqli 
 
 ## 1) UML Diagrams
+### Database Diagram
 ![Database Diagram](https://user-images.githubusercontent.com/52135942/152168913-16f0f201-ad45-4f68-9d53-a2aa2790af93.jpeg)
 ![Sequence Diagram](https://user-images.githubusercontent.com/52135942/152171002-4f2690fa-c705-442c-83c2-61f40e5bfb82.jpeg)
 
