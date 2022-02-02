@@ -18,8 +18,7 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 ### Product Searched by Keywords
 ![products-search-by-keywords](https://user-images.githubusercontent.com/52135942/151783242-69ea2dcb-685a-41b6-8da3-81ef4ec65add.jpeg)
 ### Register
-![register](https://user-images.githubusercontent.com/52135942/151783256-81a7973e-d8bc-4d73-9495-24c403a1eed0.jpeg)![Database Diagram](https://user-images.githubusercontent.com/52135942/152168590-f83adc81-7904-41c4-b997-81e3b5b1a808.jpeg)
-
+![register](https://user-images.githubusercontent.com/52135942/151783256-81a7973e-d8bc-4d73-9495-24c403a1eed0.jpeg)
 ### Cart
 ![cart](https://user-images.githubusercontent.com/52135942/151783356-e12d18ed-a613-486d-ba19-40aed103fdaf.jpeg)
 
@@ -45,8 +44,7 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 * mysqli 
 
 ## 1) UML Diagrams
-
-
+![Database Diagram](https://user-images.githubusercontent.com/52135942/152168590-f83adc81-7904-41c4-b997-81e3b5b1a808.jpeg)
 
 ## 2) SonarCloud
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/project/overview?id=YaqoobD_david-ecommerce)
