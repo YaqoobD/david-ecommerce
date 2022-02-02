@@ -44,7 +44,7 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 * mysqli 
 
 ## 1) UML Diagrams
-![Database Diagram](https://user-images.githubusercontent.com/52135942/152168590-f83adc81-7904-41c4-b997-81e3b5b1a808.jpeg)
+![Database Diagram](https://user-images.githubusercontent.com/52135942/152168913-16f0f201-ad45-4f68-9d53-a2aa2790af93.jpeg)
 
 ## 2) SonarCloud
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/project/overview?id=YaqoobD_david-ecommerce)
