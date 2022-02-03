@@ -1,7 +1,7 @@
 # David E-commerce [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=YaqoobD_david-ecommerce&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=YaqoobD_david-ecommerce)![68747470733a2f2f7472617669732d63692e636f6d2f6368616e64726176616d7368692f65636f6d6d657263652e7376673f6272616e63683d6d6173746572](https://user-images.githubusercontent.com/52135942/151912755-49d3cad3-0646-47ff-b96d-a551f9bd891d.svg)
 
 ## About
-
+ff
 E-commerce website allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It’s tough to imagine daily life without e-commerce. We order food, clothes, and furniture; we register for classes and other online services; we download books, music, and movies; and so much more. E-commerce has taken root and is here to stay.
 
 In winter semester 21/22 for the cource of Advance Software Engeneering offered and taught by "Prof. Dr. Stefan Edlich". I am developing this simple E-commerce website with the basic functionalities, I have found this cource very informative and I have learned a lot during the developmemt of this project. I hope this project will help many others as it have helped me.   
