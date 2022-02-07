@@ -78,6 +78,8 @@ In semaphore build I did
 * (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
 
 ## 4) Clean code development
+Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
+
 * used only crud operations.
 * to make it work on live server change credentials in db.php
 * custom made, no framework used
