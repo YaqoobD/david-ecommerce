@@ -101,9 +101,7 @@ PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly e
 
 Small Example of the Domain Specific Language.
 
-$products = $this->productRepository->listProducts();
-$this->setPageTitle('Products', 'Products List');
-return view('admin.products.index', compact('products'));
+![Screenshot 2022-02-11 at 13 24 25](https://user-images.githubusercontent.com/52135942/153591043-d25e5252-5ddc-40fe-995b-02f17a7a68dc.png)
 
 
 ## 7) Functional Programming
