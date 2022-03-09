@@ -43,7 +43,11 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 * fontawesome
 * mysqli 
 
-## 1) UML Diagrams
+## 1) Git!
+Git is a free, open-source version control software. It was created by Linus Torvalds in 2005. This tool is a version control system that was initially developed to work with several developers on the Linux kernel.![1_BtPsoEy04N6uszgwbwYRjQ](https://user-images.githubusercontent.com/52135942/157486286-dda260e0-3e00-40ae-bd9a-8ca46ca826bd.png)
+
+
+## 2) UML Diagrams
 A UML diagram is a diagram based on the UML (Unified Modeling Language) with the purpose of visually representing a system along with its main actors, roles, actions, artifacts or classes, in order to better understand, alter, maintain, or document information about the system. Mainly, UML has been used as a general-purpose modeling language in the field of software engineering, for the purpose of this project I have used 3 Diagrams to illustrate my design.
 ### Database Diagram
 ![Database Diagram](https://user-images.githubusercontent.com/52135942/152168913-16f0f201-ad45-4f68-9d53-a2aa2790af93.jpeg)
