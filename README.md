@@ -48,6 +48,10 @@ Git is a free, open-source version control software. It was created by Linus Tor
 
 ![1_BtPsoEy04N6uszgwbwYRjQ](https://user-images.githubusercontent.com/52135942/157486286-dda260e0-3e00-40ae-bd9a-8ca46ca826bd.png)
 
+### GitHub
+![download](https://user-images.githubusercontent.com/52135942/157489020-508768cc-f293-4994-8b59-f775f134bd62.png)
+
+
 
 ## 2) UML Diagrams
 A UML diagram is a diagram based on the UML (Unified Modeling Language) with the purpose of visually representing a system along with its main actors, roles, actions, artifacts or classes, in order to better understand, alter, maintain, or document information about the system. Mainly, UML has been used as a general-purpose modeling language in the field of software engineering, for the purpose of this project I have used 3 Diagrams to illustrate my design.
