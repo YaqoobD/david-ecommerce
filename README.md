@@ -24,8 +24,10 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 
 ## Database tables
 ![daatabase-tables](https://user-images.githubusercontent.com/52135942/151783518-d0f62eab-d14b-427d-8b75-dab8248b2268.jpeg)
+
 ### Database Diagram
-![Database Diagram](https://user-images.githubusercontent.com/52135942/152168913-16f0f201-ad45-4f68-9d53-a2aa2790af93.jpeg)
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/52135942/157491589-b9189cd2-23c3-4ac1-b51d-4b4297b0a059.png">
+
 
 ## Features
 * register (validation added)
