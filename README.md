@@ -51,7 +51,7 @@ Git is a free, open-source version control software. It was created by Linus Tor
 ### GitHub
 ![download](https://user-images.githubusercontent.com/52135942/157489020-508768cc-f293-4994-8b59-f775f134bd62.png)
 
-
+ Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects. Although it’s mostly used for code but Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
 
 ## 2) UML Diagrams
 A UML diagram is a diagram based on the UML (Unified Modeling Language) with the purpose of visually representing a system along with its main actors, roles, actions, artifacts or classes, in order to better understand, alter, maintain, or document information about the system. Mainly, UML has been used as a general-purpose modeling language in the field of software engineering, for the purpose of this project I have used 3 Diagrams to illustrate my design.
