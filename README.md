@@ -65,7 +65,9 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
 ### Customer Usecase Diagram
 ![UseCase Diagram](https://user-images.githubusercontent.com/52135942/152224341-d453954e-d4c6-4061-88cc-5bde28024376.jpeg)
 
-## 2) Metrics 
+## 3) DDD 
+
+## 4) Metrics 
 
 ### SonarCloud
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/project/overview?id=YaqoobD_david-ecommerce)
@@ -78,7 +80,14 @@ Codacy Automatically identify issues through static code review analysis. Theref
 
 ![Screenshot 2022-02-07 at 11 22 27](https://user-images.githubusercontent.com/52135942/152770719-a21cf5f7-cfea-4c09-b285-839716fa2172.png)
 
-## 3) Build Management (Semaphore) ![68747470733a2f2f6368616e64726176616d7368692e73656d6170686f726563692e636f6d2f6261646765732f65636f6d6d657263652f6272616e636865732f6d61737465722e737667](https://user-images.githubusercontent.com/52135942/151913497-b29b588d-cfda-4b26-8d6f-74783fa89d6f.svg)
+## 5) Clean code development
+Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
+
+* used only crud operations.
+* to make it work on live server change credentials in db.php
+* custom made, no framework used
+
+## 6) Build Management (Semaphore) ![68747470733a2f2f6368616e64726176616d7368692e73656d6170686f726563692e636f6d2f6261646765732f65636f6d6d657263652f6272616e636865732f6d61737465722e737667](https://user-images.githubusercontent.com/52135942/151913497-b29b588d-cfda-4b26-8d6f-74783fa89d6f.svg)
 
 ![Screenshot 2022-01-30 at 22 02 33](https://user-images.githubusercontent.com/52135942/151913568-8f7b7891-c0ca-49cf-8fbc-c16de8775c44.png)
 
@@ -90,15 +99,12 @@ In semaphore build I did
 * (browser test) Here it runs the browser test by openeing the application in browser and checks the response.
 * (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
 
-## 4) Clean code development
-Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
 
-* used only crud operations.
-* to make it work on live server change credentials in db.php
-* custom made, no framework used
+## 7) Unit-Tests
 
+## 8) Continuous Delivery
 
-## 5) IDE
+## 9) IDE
 PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
 
 * Intelligent coding assistance
@@ -110,14 +116,14 @@ PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly e
 * Development Environment 
 * Databases & SQL
 
-## 6) DSL
+## 10) DSL
 
 Small Example of the Domain Specific Language.
 
 ![Screenshot 2022-02-11 at 13 24 25](https://user-images.githubusercontent.com/52135942/153591043-d25e5252-5ddc-40fe-995b-02f17a7a68dc.png)
 
 
-## 7) Functional Programming
+## 11) Functional Programming
 
  I used only create, read, update, delete functions which are very actual things in any application.
  
