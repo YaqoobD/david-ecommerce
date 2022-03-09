@@ -44,7 +44,8 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 * mysqli 
 
 ## 1) Git!
-Git is a free, open-source version control software. It was created by Linus Torvalds in 2005. This tool is a version control system that was initially developed to work with several developers on the Linux kernel.![1_BtPsoEy04N6uszgwbwYRjQ](https://user-images.githubusercontent.com/52135942/157486286-dda260e0-3e00-40ae-bd9a-8ca46ca826bd.png)
+Git is a free, open-source version control software. It was created by Linus Torvalds in 2005. This tool is a version control system that was initially developed to work with several developers on the Linux kernel.
+![1_BtPsoEy04N6uszgwbwYRjQ](https://user-images.githubusercontent.com/52135942/157486286-dda260e0-3e00-40ae-bd9a-8ca46ca826bd.png)
 
 
 ## 2) UML Diagrams
