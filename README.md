@@ -116,6 +116,15 @@ GitHub Action is configured by adding a file named python-app.yml, which is a YA
 
 ![Screenshot 2022-03-11 at 18 32 57](https://user-images.githubusercontent.com/52135942/157918488-cf2ebd1e-be46-473c-8aa6-d43f7c461ed2.png)
 
+### TeamCity
+
+TeamCity is a general-purpose CI/CD solution that allows the most flexibility for all sorts of workflows and development practices. The Projects Overview lets you quickly check the status of your builds, see what triggered them, download the latest build artifacts, and more.
+
+![Screenshot 2022-03-11 at 18 39 19](https://user-images.githubusercontent.com/52135942/157920764-f13ac1b9-911e-48ae-b312-81d5149ed461.png)
+![Screenshot 2022-03-11 at 18 39 55](https://user-images.githubusercontent.com/52135942/157920825-c7b450f7-6af8-402b-8e73-802bb413fc85.png)
+![Screenshot 2022-03-11 at 18 40 24](https://user-images.githubusercontent.com/52135942/157920865-562e2fdd-e5aa-4e65-b3c2-e4d43ff163c7.png)
+
+
 
 ## 9) IDE
 PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
