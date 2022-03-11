@@ -104,6 +104,20 @@ In semaphore build I did
 
 ## 8) Continuous Delivery
 
+Continuous Delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually.
+
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/52135942/157917465-abe7b882-85fd-4902-9571-0aade4db9973.png)
+
+
+
+
+### GitHub Action
+
+GitHub Action is a continuous integration service used to build and test software projects hosted at GitHub by GitHub.
+
+GitHub Action is configured by adding a file named python-app.yml, which is a YAML format text file, to the .github/workflows directory of the repository.This file specifies the programming language used, the desired building and testing environment (including dependencies which must be installed before the software can be built and tested), and various other parameters
+
+
 ## 9) IDE
 PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
 
