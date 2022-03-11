@@ -106,16 +106,15 @@ In semaphore build I did
 
 Continuous Delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually.
 
-![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/52135942/157917465-abe7b882-85fd-4902-9571-0aade4db9973.png)
-
-
-
-
 ### GitHub Action
 
 GitHub Action is a continuous integration service used to build and test software projects hosted at GitHub by GitHub.
 
-GitHub Action is configured by adding a file named python-app.yml, which is a YAML format text file, to the .github/workflows directory of the repository.This file specifies the programming language used, the desired building and testing environment (including dependencies which must be installed before the software can be built and tested), and various other parameters
+GitHub Action is configured by adding a file named python-app.yml, which is a YAML format text file, to the .github/workflows directory of the repository.This file specifies the programming language used, the desired building and testing environment (including dependencies which must be installed before the software can be built and tested), and various other parameters.
+
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/52135942/157917465-abe7b882-85fd-4902-9571-0aade4db9973.png)
+
+![Screenshot 2022-03-11 at 18 32 57](https://user-images.githubusercontent.com/52135942/157918488-cf2ebd1e-be46-473c-8aa6-d43f7c461ed2.png)
 
 
 ## 9) IDE
