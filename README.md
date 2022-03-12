@@ -70,7 +70,37 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
 ### Core Domians
 #### Sales
  * put a product for sale
+ * categorize a product
+ * update a product
+ * change a product price
+ * validate an order
+ * place an order
+ 
+### Supporting Subdomains
+#### Billing
+ * Collect a payment
+#### Shipping
+* Dispatch a delivery
+#### User Reviews
+* Add a product review
 
+The e-commerce system is a web application using a Portal component implementing the Backends For Frontends (BFF) pattern.
+
+### Event Workflow
+The communication among domains is implemented via events:
+
+![event-workflow](https://user-images.githubusercontent.com/52135942/158012337-cbee3a23-7713-467f-b024-c0e2d14962d9.png)
+
+When the customer places an order the following process starts up:
+
+1) Shipping prepares a new delivery.
+2) Sales creates a new order and publishes the OrderPlaced event.
+3) Shipping accepts the delivery.
+4) Billing collects payment for the order and publishes the PaymentCollected event.
+5) Warehouse fetches goods from the stock and publishes the GoodsFetched event.
+6) Shipping dispatches the delivery and publishes the DeliveryDispatched event.
+
+There is only the basic "happy path" workflow implemented with a big room for improvement, for example when Shipping doesn't get bot Events within a time period, the delivery process should be cancelled etc..
 
 ## 4) Metrics 
 
