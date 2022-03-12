@@ -67,6 +67,11 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
 
 ## 3) DDD 
 
+### Core Domians
+#### Sales
+ * put a product for sale
+
+
 ## 4) Metrics 
 
 ### SonarCloud
