@@ -68,6 +68,7 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
 ## 3) DDD 
 
 ### Core Domians
+
 #### Sales
  * put a product for sale
  * categorize a product
@@ -77,11 +78,18 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
  * place an order
  
 ### Supporting Subdomains
+
 #### Billing
  * Collect a payment
+ 
 #### Shipping
 * Dispatch a delivery
-#### User Reviews
+
+#### Warehouse
+  * stack goods
+  * fetch goods for shipping
+ 
+ #### User Reviews
 * Add a product review
 
 The e-commerce system is a web application using a Portal component implementing the Backends For Frontends (BFF) pattern.
@@ -100,7 +108,7 @@ When the customer places an order the following process starts up:
 5) Warehouse fetches goods from the stock and publishes the GoodsFetched event.
 6) Shipping dispatches the delivery and publishes the DeliveryDispatched event.
 
-There is only the basic "happy path" workflow implemented with a big room for improvement, for example when Shipping doesn't get bot Events within a time period, the delivery process should be cancelled etc..
+There is only the basic workflow implemented with a big room for improvement, for example when Shipping doesn't get bot Events within a time period, the delivery process should be cancelled etc..
 
 ## 4) Metrics 
 
