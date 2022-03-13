@@ -145,6 +145,10 @@ In semaphore build I did
 
 ## 7) Unit-Tests
 
+The PHP AutoloadBuilder CLI tool is used and phpab is a command line application to automate the process of generating an autoload require file with the option of creating static require lists as well as phar archives.
+
+When using phpab it is necessary to recreate the autoload file every time a new class is created. This usually also happens after pulling from a repo or when switchting branches. Using a git post-checkout hook placed in .git/hooks/post-update this can be automated for most cases.
+
 ![WhatsApp Image 2022-03-12 at 8 58 58 PM](https://user-images.githubusercontent.com/52135942/158037083-beb21d5e-9f4e-40bc-8730-59fcbff3176d.jpeg)
 
 
