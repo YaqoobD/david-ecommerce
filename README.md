@@ -126,6 +126,7 @@ Codacy Automatically identify issues through static code review analysis. Theref
 ![Screenshot 2022-02-07 at 11 22 27](https://user-images.githubusercontent.com/52135942/152770719-a21cf5f7-cfea-4c09-b285-839716fa2172.png)
 
 ## 5) Clean code development
+
 - meaning full file names
 - OOP Concept -> see line 2 register.php
 - meaningful variable names (no one letter variable naming)
@@ -194,6 +195,7 @@ PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly e
 * JavaScript Editor 
 * Development Environment 
 * Databases & SQL
+![PhpStorm_Icon svg](https://user-images.githubusercontent.com/52135942/158080539-f662092e-35aa-41cb-9db9-b8d82e2bea1e.png)
 
 ## 10) DSL
 
