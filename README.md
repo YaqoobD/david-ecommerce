@@ -126,6 +126,11 @@ Codacy Automatically identify issues through static code review analysis. Theref
 ![Screenshot 2022-02-07 at 11 22 27](https://user-images.githubusercontent.com/52135942/152770719-a21cf5f7-cfea-4c09-b285-839716fa2172.png)
 
 ## 5) Clean code development
+- meaning full file names
+- OOP Concept -> see line 2 register.php
+- meaningful variable names (no one letter variable naming)
+- Comments
+
 Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
 
 * used only crud operations.
