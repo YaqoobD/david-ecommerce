@@ -65,7 +65,7 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
 ### Customer Usecase Diagram
 ![UseCase Diagram](https://user-images.githubusercontent.com/52135942/152224341-d453954e-d4c6-4061-88cc-5bde28024376.jpeg)
 ### Class Diagram
-<img width="1132" alt="Uml_Class_Diagram" src="https://user-images.githubusercontent.com/52135942/158052108-730bb3ff-ea77-44e8-99d4-0727271c29be.png">
+![Screenshot 2022-03-13 at 09 47 49](https://user-images.githubusercontent.com/52135942/158052157-0ea4947d-97fd-4fd7-8332-6290a6f0d92b.png)
 
 ## 3) DDD 
 
