@@ -132,12 +132,6 @@ Codacy Automatically identify issues through static code review analysis. Theref
 - meaningful variable names (no one letter variable naming)
 - Comments
 
-Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
-
-* used only crud operations.
-* to make it work on live server change credentials in db.php
-* custom made, no framework used
-
 ![Screenshot 2022-03-13 at 21 43 55](https://user-images.githubusercontent.com/52135942/158080614-997d4714-2175-4a29-b11a-cea5f70748a7.png)
 
 
@@ -211,12 +205,11 @@ Small Example of the Domain Specific Language.
 
 ## 11) Functional Programming
 
- I used only create, read, update, delete functions which are very actual things in any application.
- 
- * In that we have normal functions
- * functions with parameters.
- * side effect free function.
- * high order functions
+Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
 
+* used only crud operations.
+* to make it work on live server change credentials in db.php
+* custom made, no framework used
+ 
 
 
