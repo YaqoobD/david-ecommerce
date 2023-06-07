@@ -1,12 +1,12 @@
 # David E-commerce [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=YaqoobD_david-ecommerce&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=YaqoobD_david-ecommerce)![68747470733a2f2f7472617669732d63692e636f6d2f6368616e64726176616d7368692f65636f6d6d657263652e7376673f6272616e63683d6d6173746572](https://user-images.githubusercontent.com/52135942/151912755-49d3cad3-0646-47ff-b96d-a551f9bd891d.svg)
 
-## About
+## About: 💡
 
 E-commerce website allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. It’s tough to imagine daily life without e-commerce. We order food, clothes, and furniture; we register for classes and other online services; we download books, music, and movies; and so much more. E-commerce has taken root and is here to stay.
 
 In winter semester 21/22 for the cource of Advance Software Engeneering offered and taught by "Prof. Dr. Stefan Edlich". I am developing this simple E-commerce website with the basic functionalities, I have found this cource very informative and I have learned a lot during the developmemt of this project. I hope this project will help many others as it have helped me.   
 
-## Demo
+## Demo: 🎥
 ### Home
 ![home](https://user-images.githubusercontent.com/52135942/151783109-394e480b-805d-4247-93c9-9e06071231b0.jpeg)
 ### Product Added to Cart
@@ -29,7 +29,7 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/52135942/157491589-b9189cd2-23c3-4ac1-b51d-4b4297b0a059.png">
 
 
-## Features
+## Features: 🚀
 * register (validation added)
 * login & logout
 * search
@@ -40,14 +40,14 @@ In winter semester 21/22 for the cource of Advance Software Engeneering offered 
 * sessions 
 * payment success fail landing pages 
 
-## Tools
+## Tools: 🔧
 * bootstrap 3.7
 * jquery 
 * js
 * fontawesome
 * mysqli 
 
-## 1) Git!
+## 1) Git: 🐙
 Git is a free, open-source version control software. It was created by Linus Torvalds in 2005. This tool is a version control system that was initially developed to work with several developers on the Linux kernel.
 
 ![1_BtPsoEy04N6uszgwbwYRjQ](https://user-images.githubusercontent.com/52135942/157486286-dda260e0-3e00-40ae-bd9a-8ca46ca826bd.png)
@@ -57,7 +57,7 @@ Git is a free, open-source version control software. It was created by Linus Tor
 
  Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects. Although it’s mostly used for code but Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
 
-## 2) UML Diagrams
+## 2) UML Diagrams: 📊
 A UML diagram is a diagram based on the UML (Unified Modeling Language) with the purpose of visually representing a system along with its main actors, roles, actions, artifacts or classes, in order to better understand, alter, maintain, or document information about the system. Mainly, UML has been used as a general-purpose modeling language in the field of software engineering, for the purpose of this project I have used 3 Diagrams to illustrate my design.
 
 ### Sequence Diagram
@@ -67,7 +67,7 @@ A UML diagram is a diagram based on the UML (Unified Modeling Language) with the
 ### Class Diagram
 ![Screenshot 2022-03-13 at 09 47 49](https://user-images.githubusercontent.com/52135942/158052157-0ea4947d-97fd-4fd7-8332-6290a6f0d92b.png)
 
-## 3) DDD 
+## 3) DDD: 🏛️
 
 ### Core Domians
 
@@ -112,7 +112,7 @@ When the customer places an order the following process starts up:
 
 There is only the basic workflow implemented with a big room for improvement, for example when Shipping doesn't get bot Events within a time period, the delivery process should be cancelled etc..
 
-## 4) Metrics 
+## 4) Metrics: 📈
 
 ### SonarCloud
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/project/overview?id=YaqoobD_david-ecommerce)
@@ -125,7 +125,7 @@ Codacy Automatically identify issues through static code review analysis. Theref
 
 ![Screenshot 2022-02-07 at 11 22 27](https://user-images.githubusercontent.com/52135942/152770719-a21cf5f7-cfea-4c09-b285-839716fa2172.png)
 
-## 5) Clean code development
+## 5) Clean code development: 🧹
 
 - meaning full file names
 - OOP Concept -> see line 2 register.php
@@ -135,7 +135,7 @@ Codacy Automatically identify issues through static code review analysis. Theref
 ![Screenshot 2022-03-13 at 21 43 55](https://user-images.githubusercontent.com/52135942/158080614-997d4714-2175-4a29-b11a-cea5f70748a7.png)
 
 
-## 6) Build Management (Semaphore) ![68747470733a2f2f6368616e64726176616d7368692e73656d6170686f726563692e636f6d2f6261646765732f65636f6d6d657263652f6272616e636865732f6d61737465722e737667](https://user-images.githubusercontent.com/52135942/151913497-b29b588d-cfda-4b26-8d6f-74783fa89d6f.svg)
+## 6) Build Management (Semaphore): 🚦 ![68747470733a2f2f6368616e64726176616d7368692e73656d6170686f726563692e636f6d2f6261646765732f65636f6d6d657263652f6272616e636865732f6d61737465722e737667](https://user-images.githubusercontent.com/52135942/151913497-b29b588d-cfda-4b26-8d6f-74783fa89d6f.svg)
 
 ![Screenshot 2022-01-30 at 22 02 33](https://user-images.githubusercontent.com/52135942/151913568-8f7b7891-c0ca-49cf-8fbc-c16de8775c44.png)
 
@@ -148,7 +148,7 @@ In semaphore build I did
 * (security check) ensioLabs security checker, will scan the project dependencies which are  known for vulnerabilities.
 
 
-## 7) Unit-Tests
+## 7) Unit-Tests: ✅
 
 The PHP AutoloadBuilder CLI tool is used and phpab is a command line application to automate the process of generating an autoload require file with the option of creating static require lists as well as phar archives.
 
@@ -157,7 +157,7 @@ When using phpab it is necessary to recreate the autoload file every time a new 
 ![WhatsApp Image 2022-03-12 at 8 58 58 PM](https://user-images.githubusercontent.com/52135942/158037083-beb21d5e-9f4e-40bc-8730-59fcbff3176d.jpeg)
 
 
-## 8) Continuous Delivery
+## 8) Continuous Delivery: 🔄
 
 Continuous Delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually.
 
@@ -181,7 +181,7 @@ TeamCity is a general-purpose CI/CD solution that allows the most flexibility fo
 
 
 
-## 9) IDE
+## 9) IDE: 💻
 PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly error prevention, autocompletion and code refactoring, zero configuration debugging and an extended HTML, CSS, and JavaScript editor. PhpStorm also provides powerful built-in tools for debugging, testing and profiling your applications.
 
 * Intelligent coding assistance
@@ -196,14 +196,14 @@ PhpStorm is Usd as IDE in this Project it is a PHP IDE. It provides on-the-fly e
 ![download](https://user-images.githubusercontent.com/52135942/158080577-1cc8f37f-7b70-4b81-9842-3667ada1f919.jpeg)
 
 
-## 10) DSL
+## 10) DSL: 🖋️
 
 Small Example of the Domain Specific Language.
 
 ![Screenshot 2022-02-11 at 13 24 25](https://user-images.githubusercontent.com/52135942/153591043-d25e5252-5ddc-40fe-995b-02f17a7a68dc.png)
 
 
-## 11) Functional Programming
+## 11) Functional Programming: ⚙️
 
 Functional programming is a paradigm, or style, that values immutability, first-class functions, referential transparency, and pure functions. functions as machines — they take an input, or arguments, and then output something, the return value. Throughout this project, good practices for functional programming have been adopted, for this project i have used followings.
 
